@@ -1,0 +1,16 @@
+C:\Users\diego.scano\Desktop\TestWeek1\TestWeek1\TestWeek1\bin\Debug\net5.0\TestWeek1.exe
+C:\Users\diego.scano\Desktop\TestWeek1\TestWeek1\TestWeek1\bin\Debug\net5.0\TestWeek1.deps.json
+C:\Users\diego.scano\Desktop\TestWeek1\TestWeek1\TestWeek1\bin\Debug\net5.0\TestWeek1.runtimeconfig.json
+C:\Users\diego.scano\Desktop\TestWeek1\TestWeek1\TestWeek1\bin\Debug\net5.0\TestWeek1.runtimeconfig.dev.json
+C:\Users\diego.scano\Desktop\TestWeek1\TestWeek1\TestWeek1\bin\Debug\net5.0\TestWeek1.dll
+C:\Users\diego.scano\Desktop\TestWeek1\TestWeek1\TestWeek1\bin\Debug\net5.0\ref\TestWeek1.dll
+C:\Users\diego.scano\Desktop\TestWeek1\TestWeek1\TestWeek1\bin\Debug\net5.0\TestWeek1.pdb
+C:\Users\diego.scano\Desktop\TestWeek1\TestWeek1\TestWeek1\obj\Debug\net5.0\TestWeek1.csproj.AssemblyReference.cache
+C:\Users\diego.scano\Desktop\TestWeek1\TestWeek1\TestWeek1\obj\Debug\net5.0\TestWeek1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.scano\Desktop\TestWeek1\TestWeek1\TestWeek1\obj\Debug\net5.0\TestWeek1.AssemblyInfoInputs.cache
+C:\Users\diego.scano\Desktop\TestWeek1\TestWeek1\TestWeek1\obj\Debug\net5.0\TestWeek1.AssemblyInfo.cs
+C:\Users\diego.scano\Desktop\TestWeek1\TestWeek1\TestWeek1\obj\Debug\net5.0\TestWeek1.csproj.CoreCompileInputs.cache
+C:\Users\diego.scano\Desktop\TestWeek1\TestWeek1\TestWeek1\obj\Debug\net5.0\TestWeek1.dll
+C:\Users\diego.scano\Desktop\TestWeek1\TestWeek1\TestWeek1\obj\Debug\net5.0\ref\TestWeek1.dll
+C:\Users\diego.scano\Desktop\TestWeek1\TestWeek1\TestWeek1\obj\Debug\net5.0\TestWeek1.pdb
+C:\Users\diego.scano\Desktop\TestWeek1\TestWeek1\TestWeek1\obj\Debug\net5.0\TestWeek1.genruntimeconfig.cache
